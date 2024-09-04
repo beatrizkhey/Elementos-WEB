@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="_css/style.css">
     <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap" >
@@ -16,20 +15,3 @@
     <header>
         <h1>Elementos de Desenvolvimento WEB</h1>
     </header>
-    <nav>
-        <a href="index.html" target="_self" rel="next">Homepage</a>
-        <a href="html5.html" target="_self" rel="next">HTML5</a>
-        <a href="css3.html" target="_self" rel="next">CSS3</a>
-        <a href="javascript.html" target="_self" rel="next">JavaScript</a>
-        <a href="design.html" target="_self" rel="next">Design</a>
-        <a href="projetos.html" target="_self" rel="next">Projetos</a>
-    </nav>
-    <main>
-        
-    </main>
-    <footer>
-        <p>Site criado por <a href="https://github.com/beatrizkhey?tab=repositories" target="_blank" rel="external">Beatriz Khey </a>&#xA9;</p>
-        <p>Curitiba - Brasil - 2023</p>
-    </footer>
-</body>
-</html>
